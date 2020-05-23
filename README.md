@@ -1,4 +1,4 @@
-# social network analysis: Weltweiter Schiffsverkehr
+# Social Network Analysis: Weltweiter Schiffsverkehr
 
 Tools:
 - Network Analysis: networkx

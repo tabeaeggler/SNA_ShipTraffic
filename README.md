@@ -5,4 +5,4 @@ Tools:
 - Data Scraper: beautiful soup
 - Sonstige Libraries: pandas, numpy, matplotlib
 
-Daten: https://www.myshiptracking.com
+Data Source: https://www.myshiptracking.com
